@@ -1,6 +1,3 @@
-# myoro
-
-> y
 
 ## Build Setup
 
